@@ -1,0 +1,49 @@
+body{
+    width: 100%;
+    height: 100%;
+    font-size: 0.7em;
+    background-color:rgb(111, 116, 116);
+    color: rgb(255, 255, 255);
+    position: relative;
+    padding-bottom: 30em;
+    min-height: 100vh;
+}
+
+.imagen{
+    text-align: center;
+}
+
+.html{
+    float: left;
+    padding: 1.3em;
+    display: block;
+    text-decoration: none;
+    background: rgb(111, 116, 116);
+
+}
+
+.css{
+    float: left;
+    padding: 1.3em;
+    display: block;
+    text-decoration: none;
+    background: rgb(111, 116, 116); 
+}
+
+.gestores{
+    float: left;
+    padding: 1.3em;
+    display: block;
+    text-decoration: none;
+    background: rgb(111, 116, 116))
+    ;
+}
+
+.autor{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 1em 0;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+}
